@@ -1,6 +1,6 @@
 {
 
-  "name": "Heroku large file to link bot",
+  "name": "large file to link bot",
 
   "description": "Telegram bot to upload files to transfer.sh remotely Also Host on Heroku Eassyly",
 
