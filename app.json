@@ -1,6 +1,6 @@
 {
 
-  "name": "Heroku Transfer.sh Uploader",
+  "name": "Heroku large file to link bot",
 
   "description": "Telegram bot to upload files to transfer.sh remotely Also Host on Heroku Eassyly",
 
@@ -14,7 +14,7 @@
 
       "description": "Your bot token, as a string.",
 
-      "value": "5468371126:AAFlIcUrkd_V9KjuLTMv8TEhSZ5IevSW6fU"
+      "value": "5480200873:AAFuvHqXlzfPUdpOATHts6-5v_B21VFvWjE"
 
     },
 
