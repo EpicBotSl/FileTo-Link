@@ -1,4 +1,7 @@
-<h1 align="center">Night Vission File To Link Bot</h1>
+# Epic </> SH-Bot
+
+<p align="center"><img src="https://telegra.ph/file/ef9f622a16af1e7f93f4a.jpg"></p>
+
 
 <b>Telegram bot to upload files to transfer.sh remotely Also Host on Heroku Eassyly.!</b>
 
@@ -22,19 +25,15 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Captainamarica/HEROKU-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EpicBotSl/FileTo-Link)
 
 
 
 
 ## Creator
 
-- [Achu biju](https://github.com/Achu2234/HentaiMangaBot)
+- [EpicBots🇱🇰](https://github.com/EpicBotSl)
 
-
-## Thanks To
-
-- [Jhonata Poma](https://github.com/bomba5) For His [TransferBot](https://github.com/bomba5/TransferBot)
 
 Star Repo Deploy & Enjoy !!
 
