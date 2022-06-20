@@ -20,13 +20,13 @@ bot = TelegramClient('Uploader bot', api_id, api_hash).start(bot_token=bot_token
 async def start(event):
     """Send a message when the command /start is issued."""
     dict_ = {
-            "📢 Bot Updates":"https://t.me/NightVission",
-            "👥 Support":"https://t.me/NightVissionSupport",
+            "</>EpicBots":"https://t.me/EpicBotsSl",
+            "👥 Support":"https://t.me/EpicChats",
             "🤖 Developer":"https://t.me/NA_VA_N_JA_NA1",
-            "👨🏻‍💻 More bots":"https://t.me/NightVission/20"}
+            "👨🏻‍💻 More bots":"https://t.me/EpicBotsSl/20"}
     buttons = [[Button.url(k, v)] for k,v in dict_.items()]
 
-    await event.respond('Hi!\nMy Name Is File To link Uploader Bot Sent any file or direct download link to upload and get the transfer.sh download link Bot Made by @NightVission', buttons=buttons)
+    await event.respond('Hi!\nMy Name Is File To link Uploader Bot Sent any file or direct download link to upload and get the transfer.sh download link Bot Made by @EpicBotsSl', buttons=buttons)
     raise events.StopPropagation
 
 @bot.on(events.NewMessage)
